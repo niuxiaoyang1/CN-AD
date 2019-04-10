@@ -4,12 +4,22 @@
 
 ![硬件选型](../../../../image/AIDC/One-stop-Hardware-Solution-Service/xuanxing.png)
 
-## 电商 / O2O
-面向电商交易及 O2O 场景，云数据库 RDS 解决电商中对交易数据及财务数据强一致性的苛刻要求，满足电商高并发的海量交易对性能的需求。 建议同时搭配云缓存 Redis 集群用于缓存网站数据。
+## 服务器套餐规划和定义
+从功能、性能、成本、可靠性、可用性、可行性等角度，为您定制最符合业务场景的服务器套餐。
 
-![电商](../../../../image/RDS/scenario-o2o.png)
+![服务器套餐规划和定义](../../../../image/AIDC/One-stop-Hardware-Solution-Service/taocan.png)
 
-## 政府公众服务平台
-云数据库 RDS 丰富的功能可以满足政府公众服务平台的对数据库的各种需求；多可用区的主备架构可为政府公众服务平台提供稳定高效，安全可靠的数据服务，满足政府高可靠，高性能，高安全，低成本，易于维护的要求。
+## 线上服务器改配
+根据线上服务器的品牌、型号以及具体配置和状态，提供简单可行的改配或扩容方案。
 
-![政府公众服务平台](../../../../image/RDS/scenario-gov.png)
+![线上服务器改配](../../../../image/AIDC/One-stop-Hardware-Solution-Service/gaipei.png)
+
+## 服务器利旧
+将客户数据中心的老旧服务器重新利用再改造，将原来的传统架构、物理机环境，通过部件的整合以及软件的升级重新创造价值，节约客户成本。
+
+![服务器利旧](../../../../image/AIDC/One-stop-Hardware-Solution-Service/lijiu.png)
+
+## 硬件优化
+通过客户访谈，分析客户应用与系统特点，找出系统性能瓶颈或过剩部分，为客户当前使用的硬件方案提供成本或性能优化建议。
+
+![硬件优化](../../../../image/AIDC/One-stop-Hardware-Solution-Service/youhua.png)
